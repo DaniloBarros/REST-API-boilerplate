@@ -1,2 +1,2 @@
 # RestApi-Node-Rethink-Test
-Testing integration for Rethinkdb + Nodejs + Heroku
+Testing integration for Rethinkdb + Nodejs
