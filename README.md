@@ -1,2 +1,2 @@
-# RestApi-Node-Rethink-Test
-Testing integration for Rethinkdb + Nodejs
+# Rest Api Node-RethinkDB
+Api boilerplate for Rethinkdb + Nodejs
